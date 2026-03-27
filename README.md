@@ -8,7 +8,7 @@ I'm a PhD Candidate focused on **Vision-Language Models**, with a background spa
 - Deepening my foundations in transformer internals, reasoning and multimodal models
 
 ## 🛠️ Tech Stack
-**ML/AI:** PyTorch, HuggingFace, LangChain, RAG, VLMs, Transformers  
+**ML/AI:** PyTorch, HuggingFace, Agent Development Kit (ADK) 
 **Languages:** Python, C#, C++
 **Tools:** Git, Unity
 **Cloud & Data:** AWS, Snowflake
